@@ -1,0 +1,21 @@
+{
+    "appid": 17767960,
+    "editor": {
+        "expands": [],
+        "paths": []
+    },
+    "host": "baiduboxapp",
+    "preview": {
+        "packageId": 475880
+    },
+    "projectname": "animation",
+    "setting": {
+        "urlCheck": true
+    },
+    "swan": {
+        "baiduboxapp": {
+            "extensionJsVersion": "1.9.2",
+            "swanJsVersion": "3.140.10"
+        }
+    }
+}

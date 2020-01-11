@@ -1,0 +1,18 @@
+.animation-element-wrapper {
+    display: flex;
+    height: 2.18rem;
+    margin: .13rem .17rem;
+    border-radius: 8px 8px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.animation-element {
+    width: .6rem;
+    height: .6rem;
+    background-color: #2B99FF;
+    margin-left: 1.6rem;
+    margin-top: .7rem;
+}
+.text{
+    font-size: 36rpx;
+}

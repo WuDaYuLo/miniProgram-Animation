@@ -1,0 +1,78 @@
+
+
+<view class="wrap">
+    <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+    </view>
+    <view class="card-area">
+        <view class="top-description border-bottom">展示动画</view>
+        <button type="primary" bindtap="rotate" class="text">rotate</button>
+        <button type="primary" bindtap="rotateX">rotateX</button>
+        <button type="primary" bindtap="rotateY">rotateY</button>
+        <button type="primary" bindtap="rotateZ">rotateZ</button>
+        <button type="primary" bindtap="rotate3d">rotate3d</button>
+        
+       
+        
+    </view>
+</view>
+
+<!-- <view class="container">
+  <image class="image" src="https://b.bdstatic.com/miniapp/images/longImage.png"></image>
+   <view class="swan-security-padding-bottom flex-button">
+        <button type="primary" bindtap="scrollToBottom">滚动到页面底部</button>
+    </view>
+</view> -->
+
+<view class="wrap">
+    <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+    </view>
+    <view class="card-area">
+        <view class="top-description border-bottom">展示动画</view>
+        <button type="primary" bindtap="scale">scale</button>
+        <button type="primary" bindtap="scaleX">scaleX</button>
+         <button type="primary" bindtap="scaleY">scaleY</button>
+        <button type="primary" bindtap="scale3d">scale3d</button>
+    </view>
+</view>
+
+<view class="wrap">
+    <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+    </view>
+    <view class="card-area">
+        <view class="top-description border-bottom">展示动画</view>
+        <button type="primary" bindtap="translate">translate</button>
+        <button type="primary" bindtap="translateX">translateX</button>
+        <button type="primary" bindtap="translateY">translateY</button>
+        <button type="primary" bindtap="translateZ">translateZ</button>
+        <button type="primary" bindtap="translate3d">translate3d</button>
+    </view>
+</view>
+
+<view class="wrap">
+    <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+    </view>
+    <view class="card-area">
+        <view class="top-description border-bottom">展示动画</view>
+        <button type="primary" bindtap="skew">skew</button>
+        <button type="primary" bindtap="skewX">skewX</button>
+        <button type="primary" bindtap="skewY">skewY</button>
+    </view>
+</view>
+
+<view class="wrap">
+    <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+    </view>
+    <view class="card-area">
+        <view class="top-description border-bottom">展示动画</view>
+        <button type="primary" bindtap="matrix">matrix</button>
+        <button type="primary" bindtap="matrix3d">matrix3d</button>
+    </view>
+</view>
+
+<button type="primary" bindtap="scrollToTop">返回顶部</button>
+
