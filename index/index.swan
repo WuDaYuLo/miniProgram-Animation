@@ -76,3 +76,5 @@
 
 <button type="primary" bindtap="scrollToTop">返回顶部</button>
 
+<view>知识点02</view>
+<view>哈哈哈</view>
